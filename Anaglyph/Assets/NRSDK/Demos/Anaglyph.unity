@@ -1404,8 +1404,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6b85f82ef62b66458d4e3b16946dd3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ImageNormal: {fileID: 21300000, guid: 0c9b3975c9529ee4299f8614f002c600, type: 3}
-  ImageHover: {fileID: 21300000, guid: 3d43b74211d0c774ebbf10113d2fcd5c, type: 3}
+  ImageNormal: {fileID: 0}
+  ImageHover: {fileID: 0}
 --- !u!114 &1138239953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1556,8 +1556,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6b85f82ef62b66458d4e3b16946dd3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ImageNormal: {fileID: 21300000, guid: 0c9b3975c9529ee4299f8614f002c600, type: 3}
-  ImageHover: {fileID: 21300000, guid: 3d43b74211d0c774ebbf10113d2fcd5c, type: 3}
+  ImageNormal: {fileID: 0}
+  ImageHover: {fileID: 0}
 --- !u!114 &1154195123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2132,8 +2132,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6b85f82ef62b66458d4e3b16946dd3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ImageNormal: {fileID: 21300000, guid: 0c9b3975c9529ee4299f8614f002c600, type: 3}
-  ImageHover: {fileID: 21300000, guid: 3d43b74211d0c774ebbf10113d2fcd5c, type: 3}
+  ImageNormal: {fileID: 0}
+  ImageHover: {fileID: 0}
 --- !u!114 &1813701696
 MonoBehaviour:
   m_ObjectHideFlags: 0
